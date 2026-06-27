@@ -2,7 +2,7 @@ name: CI
 
 on:
   push:
-    branches: [advance]
+    branches: [master]
 
 jobs:
   frontend:
